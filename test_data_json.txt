@@ -6,10 +6,11 @@
 "detailsUri": "https://www.wikiart.org/en/robert-spencer/harlem-river-1924?utm_source=Muzei&utm_campaign=Muzei",
 "imageUri": "https://i.dailymail.co.uk/1s/2019/11/23/09/21370544-7717313-image-a-1_1574501083030.jpg"
 },
-"title": " ",
-"attribution": " ",
-"byline": " ",
-"detailsUri": " ",
+{
+"title": "",
+"attribution": "",
+"byline": "",
+"detailsUri": "",
 "imageUri": "https://i.imgur.com/AJzWrU7.jpg"
 }
 ]
