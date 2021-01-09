@@ -1,8 +1,8 @@
 [
 {
-"title": "Harlem River",
-"attribution": "wikiart.org",
-"byline": "Robert Spencer, 1924",
+"title": "Harlem",
+"attribution": "wikiart",
+"byline": "Robert Spencer,",
 "detailsUri": "https://www.wikiart.org/en/robert-spencer/harlem-river-1924?utm_source=Muzei&utm_campaign=Muzei",
 "imageUri": "https://i.dailymail.co.uk/1s/2019/11/23/09/21370544-7717313-image-a-1_1574501083030.jpg"
 },
@@ -11,6 +11,6 @@
 "attribution": "",
 "byline": "",
 "detailsUri": "",
-"imageUri": "https://i.imgur.com/AJzWrU7.jpg"
+"imageUri": "https://i.imgur.com/FwiCzvQ.jpg"
 }
 ]
